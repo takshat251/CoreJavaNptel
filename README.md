@@ -1,2 +1,2 @@
 # CoreJavaNptel
-Comprises of Core Java programs for practice specially useful while learning on Nptel
+Comprises of Core Java programs for practice specifically useful while learning on Nptel
